@@ -43,6 +43,7 @@ gabrieldalmeida0/g/
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
 | Portfólio Web | Página de portfólio com GitHub Pages | HTML, CSS, Git | [Ver →](./academico/portfolio-web) |
+| Exercícios Python | Códigos e algoritmos desenvolvidos em aula | Python | [Ver →](./academico/exercicios-python) |
 
 ### 🛠️ Pessoais
 
